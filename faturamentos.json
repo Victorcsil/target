@@ -1,0 +1,36 @@
+{
+    "dias": [
+      {"dia": "01", "faturamento": 980},
+      {"dia": "02", "faturamento": 1200},
+      {"dia": "03", "faturamento": 0},
+      {"dia": "04", "faturamento": 1400},
+      {"dia": "05", "faturamento": 0},
+      {"dia": "06", "faturamento": 1150},
+      {"dia": "07", "faturamento": 0},
+      {"dia": "08", "faturamento": 1050},
+      {"dia": "09", "faturamento": 1300},
+      {"dia": "10", "faturamento": 0},
+      {"dia": "11", "faturamento": 1250},
+      {"dia": "12", "faturamento": 0},
+      {"dia": "13", "faturamento": 1350},
+      {"dia": "14", "faturamento": 0},
+      {"dia": "15", "faturamento": 1450},
+      {"dia": "16", "faturamento": 0},
+      {"dia": "17", "faturamento": 1100},
+      {"dia": "18", "faturamento": 0},
+      {"dia": "19", "faturamento": 1220},
+      {"dia": "20", "faturamento": 0},
+      {"dia": "21", "faturamento": 1270},
+      {"dia": "22", "faturamento": 0},
+      {"dia": "23", "faturamento": 1180},
+      {"dia": "24", "faturamento": 0},
+      {"dia": "25", "faturamento": 1320},
+      {"dia": "26", "faturamento": 0},
+      {"dia": "27", "faturamento": 1400},
+      {"dia": "28", "faturamento": 0},
+      {"dia": "29", "faturamento": 1500},
+      {"dia": "30", "faturamento": 0},
+      {"dia": "31", "faturamento": 1250}
+    ]
+  }
+  
